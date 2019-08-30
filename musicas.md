@@ -1,3 +1,3 @@
-Carolina - Chico Buarque
-Ligia - Tom Jobim
-Alisson - Slowdive
+Carolina - Chico Buarque<br>
+Ligia - Tom Jobim<br>
+Alisson - Slowdive<br>
