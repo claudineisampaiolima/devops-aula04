@@ -1,4 +1,4 @@
-# devops-aula04 ver 2
+# devops-aula04 ver 1.2
 Panthera Negra<br>
 Busca Implacavel<br>
 Matrix<br>
